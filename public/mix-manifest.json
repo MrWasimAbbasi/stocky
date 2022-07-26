@@ -98,5 +98,6 @@
     "/js/bundle/not_authorize.js": "/js/bundle/not_authorize.js",
     "/js/bundle/largeSidebar.js": "/js/bundle/largeSidebar.js",
     "/js/bundle/customizer.js": "/js/bundle/customizer.js",
-    "/js/bundle/vue-perfect-scrollbar.js": "/js/bundle/vue-perfect-scrollbar.js"
+    "/js/bundle/vue-perfect-scrollbar.js": "/js/bundle/vue-perfect-scrollbar.js",
+    "/css/globals.css": "/css/globals.css"
 }
